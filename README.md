@@ -51,10 +51,10 @@ The StellarResort Booking Application is a comprehensive system for managing roo
 - **PostgreSQL**: Used for persistent data storage with JPA/Hibernate for ORM.
 - **Swagger/OpenAPI**: Generates interactive API documentation with annotations used in Spring Boot controllers.
 
-## Screenshots
+## Screenshots--
 
 ## Screenshots 1
-![Screenshot 1](path/to/screenshot2.png)<img width="959" alt="application on eurekaserver" src="https://github.com/user-attachments/assets/5b00a60b-90c3-4f83-bd6a-c50049e85a0b">
+<img width="959" alt="application on eurekaserver" src="https://github.com/user-attachments/assets/5b00a60b-90c3-4f83-bd6a-c50049e85a0b">
 &nbsp;
 &nbsp;
 ## Screenshots 2
